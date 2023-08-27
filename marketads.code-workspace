@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {},
+    "extensions": {
+        "recommendations": [
+            "formulahendry.auto-close-tag",
+            "formulahendry.auto-complete-tag",
+            "formulahendry.auto-rename-tag",
+            "Box-Of-Hats.bemhelper",
+            "pucelle.vscode-css-navigation",
+            "diz.ecsstractor-port",
+            "dbaeumer.vscode-eslint",
+            "glenn2223.live-sass",
+            "ritwickdey.LiveServer",
+            "ionutvmi.path-autocomplete",
+            "esbenp.prettier-vscode",
+            "alefragnani.project-manager",
+            "mrmlnc.vscode-scss"
+        ]
+    }
+}
